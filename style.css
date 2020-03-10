@@ -1,0 +1,26 @@
+body {
+	
+	background: #d3f4ff;
+}
+
+.header {
+	border: solid;
+	text-align: center;
+	background: #fafba4;
+	margin: 0 auto 50px;
+	width: 75%;
+	padding: 25px;
+
+
+}
+
+.links {
+	font-size: 25px;
+	
+}
+
+.links:hover {
+	color: green;
+}
+
+

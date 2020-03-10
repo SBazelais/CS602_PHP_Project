@@ -1,0 +1,98 @@
+[
+    {
+        "contactID": "13",
+        "0": "13",
+        "firstName": "STEVE",
+        "1": "STEVE",
+        "lastName": "BAZELAIS",
+        "2": "BAZELAIS",
+        "phoneNumber": "7814753881",
+        "3": "7814753881",
+        "email": "stevebazelais21@yahoo.com",
+        "4": "stevebazelais21@yahoo.com"
+    },
+    {
+        "contactID": "14",
+        "0": "14",
+        "firstName": "STEVE",
+        "1": "STEVE",
+        "lastName": "BAZELAIS",
+        "2": "BAZELAIS",
+        "phoneNumber": "7814753881",
+        "3": "7814753881",
+        "email": "stevebazelais21@yahoo.com",
+        "4": "stevebazelais21@yahoo.com"
+    },
+    {
+        "contactID": "1",
+        "0": "1",
+        "firstName": "John",
+        "1": "John",
+        "lastName": "Doe",
+        "2": "Doe",
+        "phoneNumber": "7813334444",
+        "3": "7813334444",
+        "email": "john@doe.com",
+        "4": "john@doe.com"
+    },
+    {
+        "contactID": "2",
+        "0": "2",
+        "firstName": "Jane",
+        "1": "Jane",
+        "lastName": "Doe",
+        "2": "Doe",
+        "phoneNumber": "7813335544",
+        "3": "7813335544",
+        "email": "jane@doe.com",
+        "4": "jane@doe.com"
+    },
+    {
+        "contactID": "5",
+        "0": "5",
+        "firstName": "John",
+        "1": "John",
+        "lastName": "Doe",
+        "2": "Doe",
+        "phoneNumber": "7811234567",
+        "3": "7811234567",
+        "email": "john@doe.com",
+        "4": "john@doe.com"
+    },
+    {
+        "contactID": "3",
+        "0": "3",
+        "firstName": "John",
+        "1": "John",
+        "lastName": "Smith",
+        "2": "Smith",
+        "phoneNumber": "7812323356",
+        "3": "7812323356",
+        "email": "john@smith.com",
+        "4": "john@smith.com"
+    },
+    {
+        "contactID": "4",
+        "0": "4",
+        "firstName": "Jane",
+        "1": "Jane",
+        "lastName": "Smith",
+        "2": "Smith",
+        "phoneNumber": "7811144466",
+        "3": "7811144466",
+        "email": "jane@smith.com",
+        "4": "jane@smith.com"
+    },
+    {
+        "contactID": "6",
+        "0": "6",
+        "firstName": "Jane",
+        "1": "Jane",
+        "lastName": "Smith",
+        "2": "Smith",
+        "phoneNumber": "7813458778",
+        "3": "7813458778",
+        "email": "jane@smith.com",
+        "4": "jane@smith.com"
+    }
+]
